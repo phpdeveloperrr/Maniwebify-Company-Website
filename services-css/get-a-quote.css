@@ -1,0 +1,138 @@
+.get-a-quote-bg{
+    background-image: url(../assets/Background-Layer.png);
+    height: 40%;
+}
+.get-a-quote-bg-heading h4{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #ffffff;
+    font-style: normal;
+}
+/* START A PROJECT START */
+
+.get-a-quote-text{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 17px;
+}
+.get-a-quote{
+    display: flex;
+    margin-top: 25px;
+}
+.get-a-quote-left-side,
+.get-a-quote-right-side{
+    flex: 1;
+    background: url(../assets/line.png);
+    height: 12px;
+    background-position: center;
+    background-size: cover;
+    padding: 13px 0;
+}
+    
+/* START A PROJECT END */
+
+/* START A PROJECT LETS MAKE SOMETHING START */
+.start-a-project-lets-make{
+    text-align: center;
+}
+.start-a-project-lets-make bold{
+    color:#FF6B3A;
+}
+.start-a-project-lets-make h5{
+    margin-top: 10px;
+    font-size: 22px;
+    margin-bottom: 13px;
+}
+.start-a-project-lets-make p{
+    font-size: 20px;
+}
+/* START A PROJECT LETS MAKE SOMETHING END */
+
+/* GET A GUARANTEED START */
+.get-a-guaranted{
+    text-align: center;
+    margin-top: 30px;
+}
+.get-a-guaranted h3{
+    font-size: 22px;
+}
+.get-a-guaranted h4{
+    color: #FF6B3A;
+    margin-bottom: 15px;
+
+}
+.get-a-guaranted h5{
+    border-top: 1px solid black;
+    line-height: 50px;
+}
+.get-a-guaranted-content{
+    margin-top: 30px;
+}
+.get-a-guaranted-content h5{
+    margin-bottom: 60px;
+    margin-left: 53px;
+    margin-top: -40px;
+    font-weight: normal;
+}
+.get-a-guaranted-content img{
+    width: 8%;
+    margin-right: 15px;
+}
+.get-a-guaranted-form{
+    border: 1px solid #e37332;
+    margin-top: 40px;
+}
+.guaranted-form{
+    margin-top: 30px;
+}
+.guaranted-form input{
+    border: none;
+    border-bottom: 1px solid #FF6B3A;
+    border-radius: 0px;
+    margin-bottom: 46px;
+}
+.guaranted-form input:focus{
+    outline: 0px;
+    box-shadow: none;
+}
+.guaranted-form-input input{
+    margin-top: 60px;
+    margin-bottom: 6px;
+}
+.guaranted-form-para p{
+    margin-left: 10px;
+    font-weight: 500;
+}
+.guaranted-form-check-out input{
+    margin-left: 4px;
+    margin-top: 6px;
+}
+.guaranted-form-check-out label{
+    margin-left: 22px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 500;
+}
+.guaranted-form-check-out bold{
+    color: #FF6B3A;
+}
+.guaranted-form-button{
+    text-align: center;
+}
+.guaranted-form-button button{
+    border: none;
+    background: #161E2C;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding: 9px 12px;
+    border-radius: 9px;
+}
+.guaranted-form-button button:focus{
+    outline: 0 !important;
+    box-shadow: none;
+}
+/* GET A GUARANTEED END */

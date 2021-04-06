@@ -1,0 +1,16 @@
+.high-light-brand{
+    text-align: center;
+}
+.high-light-brand h6{
+    margin-top: 20px;
+    color: black;
+    font-size: 20px;
+}
+.high-light-brand h5{
+    font-size: 28px;
+    color: #FF6B3A;
+    margin-top: 10px;
+}
+.high-light-brand p{
+    font-size: 18px;
+}

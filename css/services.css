@@ -1,0 +1,82 @@
+.services-bg{
+    background-image: url(../assets/Awesome-Projects-Banner.png);
+    height: 40%;
+}
+.services-bg-heading h4{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #ffffff;
+    font-style: normal;
+
+}
+.services-page-img{
+    border: 1px solid #ff8e2c;
+    margin-top: 60px;
+    transform: rotate(7deg);
+}
+.services-page-img .services-feature-img{
+    max-width: 50%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.services-content h6{
+    margin-left: 8px;
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: left;
+
+}
+.services-content p{
+    color: #FF8A2E;
+    font-weight: 600;
+    margin-left: 7px;
+    margin-bottom: 60px;
+    margin-top: 12px;
+    text-align: left;
+
+}
+.services-content button{
+    float: right;
+    margin-top: -42px;
+    padding: 7px 22px;
+    margin-right: 10;
+    background: #FF8230;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+}
+.services-page-bg{
+    transform: rotate(-7deg);
+    background: white;
+    text-align: center;
+    height: 450px;
+}
+.services-page-img:hover{
+    border: none;
+    transform: none;
+    background: #ff854ea1;
+}
+.services-page-bg:hover{
+    transform: none;
+    background: #ff854ea1;
+}
+.services-page-img:hover h6,
+.services-page-img:hover p{
+    color: white;
+}
+.services-page-img:hover button{
+    background: white;
+    color: black;
+}
+.services-page-view-all{
+    text-align: center;
+    margin-top: 70px;
+}
+.services-page-view-all a{
+    color: black;
+    font-weight: 600;
+    text-decoration: underline #FF8230;
+}

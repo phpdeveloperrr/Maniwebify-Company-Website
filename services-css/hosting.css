@@ -1,0 +1,39 @@
+.high-light-brand-1 h5{
+    text-transform: uppercase;
+    font-size: 23px;
+}
+.high-light-brand-1 bold{
+    color: #FF4432;
+}
+.hosting-categories{
+    text-align: center;
+    margin-top: 50px;
+}
+.hosting-categories img{
+    max-width: 20%;
+    max-height: 50px;
+}
+.hosting-categories h5{
+    font-size: 17px;
+    margin-top: 20px;
+    color: #FFA44F;
+}
+.hosting-categories p{
+    font-size: 15px;
+}
+.responsive-why-choose-us-1 button{
+    color: black;
+    border: 1px solid #756b6b;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background: none;
+    font-weight: 500;
+}
+.responsive-why-choose-us-1 button:focus{
+    outline: 0px;
+    box-shadow: none;
+}
+.responsive-why-choose-us-1 button:hover{
+    background: #FF7F35;
+    color: white;
+}

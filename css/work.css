@@ -1,0 +1,102 @@
+.work-bg{
+    background-image: url(../assets/Awesome-Projects-Banner.png);
+    height: 40%;
+}
+.work-bg-heading h4{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #020202;
+    font-style: normal;
+
+}
+.work-bg-heading p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+.work-page-img {
+    display: inline-block;
+    background: #FF9E4F;
+    border-radius: 5px;
+    width: 100% !important;
+    position: relative;
+    margin-top: 50px;
+}
+
+
+.work-page-img .feature-img{
+    width: 100%;
+    transform: translate(15px, 15px);
+    transition: all 0.3s ease-in-out;
+ }
+
+.feature-img-button{
+    background: rgba(0, 0, 0,0.5);
+    position: absolute;
+    z-index: 999;
+    top: 6; 
+    width: 100%;
+    height: 100%;
+    padding-top: 0%;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+ }
+
+.feature-img-button .slide-play-btn{
+    margin: 0px auto;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    top: 170px;
+    position: absolute;
+    left: 223px;
+ }
+.feature-img-button .slide-play-btn h4{
+    color: white;
+    margin-left: 26px;
+    margin-bottom: 15px;
+}
+.feature-img-button .slide-play-btn button{
+    background: #FF7737;
+    border: none;
+    padding: 6px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.feature-img-button .slide-play-btn button:focus{
+    outline: 0;
+    box-shadow: none;
+}
+.work-page-img:hover .feature-img-button,
+.work-page-img:hover .feature-img{
+    top:0px;
+    transform:translate(0px,0px);
+    opacity: 1;
+}
+.work-page-load-more{
+    text-align: center;
+}
+.work-page-load-more button{
+    background: none;
+    margin-top: 60px;
+    border-radius: 5px;
+    border: 1px solid #FFA861;
+    padding: 10 100px;
+    color: black;
+    font-weight: 600;
+}
+.work-page-load-more button:hover{
+    background: #FF6041;
+    color: white;
+    font-weight: 600;
+}
+.work-page-load-more button:focus{
+    outline: 0px;
+    box-shadow: none;
+}
+

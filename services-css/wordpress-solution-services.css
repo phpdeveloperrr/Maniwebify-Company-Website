@@ -1,0 +1,79 @@
+.feature-sevices-files{
+    margin-bottom: 90px;
+    margin-top: 40px;
+}
+.feature-sevices-files h5{
+    text-align: right;
+    font-size: 18px;
+    color: #FF6B3A;
+}
+.feature-sevices-files span{
+    display: block;
+    margin-top: 7px;
+}
+.feature-sevices-files img{
+    float: right;
+    width: 20%;
+    margin-left: 17px;
+}
+.feature-sevices-files p{
+    text-align: right;
+    margin-right: 106px;
+    font-size: 14px;
+}
+.feature-sevices-files-1{
+    margin-bottom: 50px;
+    margin-top: 28px;
+}
+.feature-sevices-files-1 h5{
+    font-size: 18px;
+    color: #FF6B3A;
+}
+.feature-sevices-files-1 span{
+    display: block;
+    margin-left: 114px;
+    margin-top: -23px;
+}
+.feature-sevices-files-1 img{
+    width: 20%;
+    margin-right: 25px;
+}
+.feature-sevices-files-1 p{
+    font-size: 14px;
+    margin-left: 115px;
+}
+.feature-services-files-1-para{
+    margin-top: -33px;
+}
+.feature-sevices-files-1-button{
+    text-align: center;
+}
+.feature-sevices-files-1-button span{
+    display: block;
+    margin-bottom: 8px;
+    color: black;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.feature-sevices-files-1-button button{
+    background: none;
+    border-radius: 5px;
+    border: 1px solid #d4d2d2;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+.feature-sevices-files-1-button button:hover{
+    background: #FF842F;
+    color: white;
+    border: 1px solid white;
+}
+.feature-sevices-files-1-button button:focus{
+    outline: 0px;
+    box-shadow: none;
+}
+.lines-circle-design{
+    text-align: center;
+}
+.lines-circle-design img{
+    max-width: 75%;
+}

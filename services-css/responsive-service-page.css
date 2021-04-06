@@ -1,0 +1,82 @@
+.responsive-services-bg{
+    background-image: url(../assets/Background-Layer.png);
+    height: 40%;
+}
+.responsive-services-bg-heading h4{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #000000;
+    font-style: normal;
+}
+.responsive-services-bg-heading p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 22px;
+}
+.responsive-flexible-hiring{
+    text-align: center;
+    margin-top:45px;
+}
+.responsive-flexible-hiring img{
+    width: 35%;
+    height: 100px;
+}
+.responsive-flexible-hiring h3{
+    margin-top: 5px;
+    font-size: 18px;
+    border-bottom: 1px solid #e57333;
+    line-height: 50px;
+}
+/* FLEXIBLE HIRING BAR END */
+
+/* TELL US ABOUT YOUR PROJECT START */
+
+.tell-us-about h5{
+    margin-top: 30px;
+    color: #ff6b3a;
+    font-size: 17px;
+    text-transform: uppercase;
+    line-height: 28px;
+
+}
+.tell-us-about p{
+    font-size: 16px;
+}
+.tell-us-about button{
+    background: #FFFFFF;
+    border: 1px solid #ff6b3a;
+    padding: 8px 15px;
+    border-radius: 10px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.tell-us-about button:hover{
+    background: #FF6C3D;
+    color: white;
+}
+.tell-us-about button:focus{
+    outline: 0px;
+    box-shadow: none;
+}
+.tell-us-img img{
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.responsive-why-choose-us{
+    text-align: center;
+}
+.responsive-why-choose-us h5{
+    margin-top: 60px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.responsive-why-choose-us p{
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+}
+/* TELL US ABOUT YOUR PROJECT END */

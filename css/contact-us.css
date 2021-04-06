@@ -1,0 +1,179 @@
+.blog-bg{
+    background-image: url(../assets/Contact-Us-Background-with-layout.png);
+    height: 40%;
+}
+.blog-bg-heading h4{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #000000;
+    font-style: normal;
+}
+.blog-bg-heading p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 22px;
+}
+.contact-help-heading{
+    margin-top: 40px;
+}
+.contact-help-heading p{
+    font-weight: 600;
+    font-size: 22px;
+    border-bottom: 1px solid #FF894B;
+    width: 100%;
+}
+.contact-faq{
+    margin-top: 25px;
+}
+.contact-faq button{
+    width: 100%;
+    text-align: left;
+    color: gray;
+    background: none;
+    border: 1px solid #FF8B53;
+    padding: 9px 10;
+    border-radius: 7px;
+}
+.contact-faq button:focus{
+    outline: none;
+    box-shadow: none;
+}
+.contact-faq button:hover{
+    background: #FF9048;
+    color: black;
+    font-weight: 600;
+}
+.contact-how-it-work{
+    margin-top: 25px;
+}
+.contact-how-it-work button{
+    width: 100%;
+    text-align: left;
+    color: gray;
+    background: none;
+    border: 1px solid #FF8B53;
+    padding: 9px 10;
+    border-radius: 7px;
+}
+.contact-how-it-work button:focus{
+    outline: none;
+    box-shadow: none;
+}
+.contact-how-it-work button:hover{
+    background: #FF9048;
+    color: #ffffff;
+    font-weight: 600;
+}
+.contact-get-in-touch-heading{
+    margin-top: 40px;
+}
+.contact-get-in-touch-heading p{
+    font-weight: 600;
+    font-size: 22px;
+    border-bottom: 1px solid #FF894B;
+}
+.contact-us-adres{
+    margin-bottom: 30px;
+}
+.contact-us-img img{
+    width: 10%;
+}
+.contact-us-adres-content{
+    margin-left: 66px;
+    margin-top: -45px;
+}
+.contact-us-adres-content p{
+    color: #FF8B53;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.contact-us-adres-content span{
+    font-weight: 500;
+}
+.contact-us-social-network{
+    margin-top: 40px;
+}
+.contact-us-social-network p{
+    color: black;
+    font-weight: 600;
+    font-size: 25px;
+}
+.contact-us-icon{
+    margin-top: 25px;
+}
+.contact-us-icon i{
+    background: #FF8D2C;
+    color: black !important;
+    border-radius: 22px;
+    padding: 8px;
+}
+.contact-us-icon a{
+    padding: 5 10px;
+    color: black !important;
+}
+
+/* CONTACT US FORM START */
+
+.contact-us-form{
+    margin-top: 70px;
+}
+.contact-us-form-img-bar{
+    text-align: center;
+}
+.contact-us-form-img-bar img{
+    margin-top: 36px;
+    width: 25%;
+}
+.contact-us-form-img-bar h6{
+    margin-top: 10px;
+    color: #FF872D;
+    font-weight: 600;
+    font-size: 23px;
+}
+.contact-us-form-img-bar p{
+    text-align: left;
+    font-weight: 600;
+    margin-top: 15px;
+
+}
+.contact-us-form-1{
+    margin-top: 50px;
+}
+.contact-us-form-1 input{
+    border: none;
+    border-bottom: 1px solid #FF9146;
+    border-radius: 0px;
+    margin-bottom: 40px;
+}
+.contact-us-form-1 input:focus{
+    background: none;
+    outline: 0px;
+    box-shadow: none;
+}
+.contact-us-form-1 textarea{
+    width: 100%;
+    border: 1px solid #FF9146;
+}
+.contact-us-form-1 textarea:focus{
+    background: none;
+    outline: 0px;
+    box-shadow: none;
+}
+.contact-us-form-1 button{
+    float: right;
+    margin-right: 11px;
+    padding: 5 30px;
+    margin-bottom: 32px;
+    background: #FF8D2C;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+.contact-us-form-1 button:focus{
+    background: none;
+    outline: 0px;
+    box-shadow: none;
+}
